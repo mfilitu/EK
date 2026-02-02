@@ -1,3 +1,4 @@
+Slides: [[Intro til Systemudvikling cahl 2026.pdf]]
 Laves i grupper af 4 personer:
 1. **Beskriv hvad software er og giv eksempler på forskellige typer**
 	1. Det kan fx. være en app der tager noget input og giver noget output (løser et problem) Fx. rejseplanen. Det er ofte det, som styrer din hardware.
