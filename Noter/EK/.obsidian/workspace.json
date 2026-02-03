@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/4. Repetition af var og metoder.md",
+                "file": "Sem1/SysUd/2. Informationsindsamling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Repetition af var og metoder"
+              "title": "2. Informationsindsamling"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "38646f4c4c081ba2",
   "lastOpenFiles": [
-    "Sem1/Prog1/3. Metoder.md",
+    "Sem1/SysUd/1. Intro til Systemudvikling.md",
+    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/Prog1/4. Repetition af var og metoder.md",
+    "Sem1/Prog1/3. Metoder.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
     "Sem1/Prog1/Slides/01-java-fra-scratch.pdf",
-    "Sem1/SysUd/1. Intro til Systemudvikling.md",
-    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/Prog1/Slides/slides-02-variabler-og-expressions.pdf",
     "Sem1/Prog1/Slides/slides - 03-metoder.pdf",
     "Sem1/Prog1/Slides",
