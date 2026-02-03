@@ -6,7 +6,9 @@ public class returnType {
         System.out.println("resultatet er: " + isWeekend(7));
         System.out.println("resultatet er: " + fullName("mat", "fil"));
         System.out.println("resultatet er: " + getLength("12345"));
-        //System.out.println("resultatet er: " + greet("s"));
+        //System.out.println("resultatet er: " + greet("s")); // you cant concat string with void, so this is our option:
+        greet("mat");
+
     }
     public static int add(int a, int b){
         return a + b;
