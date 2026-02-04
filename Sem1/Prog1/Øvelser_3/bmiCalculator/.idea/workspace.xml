@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e6ee505-4359-4296-b1f1-ac197c39aa40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/1. Hello world and syntax stuffs.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/1. Hello world and syntax stuffs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/2. Variabler og expressions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/2. Variabler og expressions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/3. Metoder.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/Prog1/3. Metoder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/SysUd/1. Intro til Systemudvikling.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/SysUd/1. Intro til Systemudvikling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/SysUd/2. Informationsindsamling.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Noter/EK/Sem1/SysUd/2. Informationsindsamling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39AOvKhbQqWeJbpZpR2lbO9Ap7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mobtr/Desktop/EK/Sem1/Prog1/Øvelser_3/bmiCalculator",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e6ee505-4359-4296-b1f1-ac197c39aa40" name="Changes" comment="" />
+      <created>1770135637567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770135637567</updated>
+      <workItem from="1770135641609" duration="256000" />
+      <workItem from="1770135906564" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
+  </component>
+</project>
