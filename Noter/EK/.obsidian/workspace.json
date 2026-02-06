@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/4. Repetition af var og metoder.md",
+                "file": "Sem1/Prog1/5. Betingelser (If and else).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Repetition af var og metoder"
+              "title": "5. Betingelser (If and else)"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "c3374068578bd1ce",
   "lastOpenFiles": [
+    "Sem1/Prog1/4. Repetition af var og metoder.md",
+    "Sem1/Prog1/5. Betingelser (If and else).md",
+    "Sem1/Prog1/3. Metoder.md",
     "Sem1/IT- og forretningsudvikling/1. Intro.md",
     "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
     "Sem1/IT- og forretningsudvikling",
     "Sem1/SysUd/2. Informationsindsamling.md",
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
-    "Sem1/Prog1/3. Metoder.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
     "Sem1/Prog1/Slides/01-java-fra-scratch.pdf",
