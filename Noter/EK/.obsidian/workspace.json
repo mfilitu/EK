@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b774a311253399b5",
+        "id": "de4da6c24e24a751",
         "type": "tabs",
         "children": [
           {
-            "id": "38646f4c4c081ba2",
+            "id": "c3374068578bd1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,25 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "38646f4c4c081ba2",
+  "active": "c3374068578bd1ce",
   "lastOpenFiles": [
+    "Sem1/IT- og forretningsudvikling/1. Intro.md",
+    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
+    "Sem1/IT- og forretningsudvikling",
+    "Sem1/SysUd/2. Informationsindsamling.md",
+    "Sem1/Prog1/4. Repetition af var og metoder.md",
     "Sem1/Prog1/3. Metoder.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
     "Sem1/Prog1/Slides/01-java-fra-scratch.pdf",
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
-    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/SysUd/1. Intro til Systemudvikling.md",
     "Sem1/Prog1/Slides/slides-02-variabler-og-expressions.pdf",
     "Sem1/Prog1/Slides/slides - 03-metoder.pdf",
     "Sem1/Prog1/Slides",
     "Sem1/Prog1/Slides",
-    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
     "Sem1/SysUd/Slides/Informationsindsamling cahl 2026.pdf",
     "Pasted image 20260202105154.png",
     "Sem1/SysUd/Slides/Intro til Systemudvikling cahl 2026.pdf",
     "Sem1/SysUd/Slides",
-    "Sem1/Untitled",
     "Screenshot 2026-02-02 at 09-07-43 FURPS model – Quality Management.png",
     "Screenshot 2026-02-02 at 09-08-35 FURPS - SOPHIST BLOGSOPHIST BLOG.png",
     "Untitled.canvas",
