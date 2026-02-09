@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "5. Betingelser (If and else)"
             }
+          },
+          {
+            "id": "cb8de160f428ad07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem1/SysUd/2. Informationsindsamling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Informationsindsamling"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3374068578bd1ce",
+  "active": "cb8de160f428ad07",
   "lastOpenFiles": [
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
+    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
+    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/Prog1/5. Betingelser (If and else).md",
+    "Sem1/SysUd/Slides/Informationsindsamling cahl 2026.pdf",
+    "Sem1/Prog1/4. Repetition af var og metoder.md",
     "Sem1/Prog1/3. Metoder.md",
     "Sem1/IT- og forretningsudvikling/1. Intro.md",
-    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
     "Sem1/IT- og forretningsudvikling",
-    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
     "Sem1/Prog1/Slides/01-java-fra-scratch.pdf",
@@ -200,7 +216,6 @@
     "Sem1/Prog1/Slides/slides - 03-metoder.pdf",
     "Sem1/Prog1/Slides",
     "Sem1/Prog1/Slides",
-    "Sem1/SysUd/Slides/Informationsindsamling cahl 2026.pdf",
     "Pasted image 20260202105154.png",
     "Sem1/SysUd/Slides/Intro til Systemudvikling cahl 2026.pdf",
     "Sem1/SysUd/Slides",
