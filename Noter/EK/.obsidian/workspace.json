@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/7. Input og scanner.md",
+                "file": "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Input og scanner"
+              "title": "8. Mere om løkker og generering af tilfældige tal"
+            }
+          },
+          {
+            "id": "c913520b23cb52a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UML_Use Case Diagram cahl 2026"
             }
           }
         ]
@@ -186,25 +198,26 @@
   "active": "e951312dc109696d",
   "lastOpenFiles": [
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem1/Prog1/5. Betingelser (If and else).md",
+    "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
     "Sem1/Prog1/7. Input og scanner.md",
+    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
+    "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf",
+    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
+    "Sem1/SysUd/2. Informationsindsamling.md",
+    "Sem1/Prog1/5. Betingelser (If and else).md",
     "Sem1/Prog1/4. Repetition af var og metoder.md",
     "Sem1/Prog1/Slides/slides-06-while-rekursion-og-mere-om-strings.pdf",
     "Sem1/SysUd/0. Cays plan link.md",
-    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
     "Sem1/images/Untitled.base",
     "Sem1/images/Pasted image 20260202105154.png",
     "Sem1/images/Screenshot 2026-02-02 at 09-08-35 FURPS - SOPHIST BLOGSOPHIST BLOG.png",
     "Sem1/images",
     "Sem1/images/Pasted image 20260209130630.png",
-    "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf",
     "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf",
-    "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/images/Pasted image 20260209125850.png",
     "Sem1/SysUd/Slides/Peer review cahl 2026.pdf",
     "Sem1/Prog1/3. Metoder.md",
     "Sem1/IT- og forretningsudvikling/1. Intro.md",
-    "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
     "Sem1/IT- og forretningsudvikling",
     "Sem1/Prog1/2. Variabler og expressions.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
