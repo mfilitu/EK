@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
+                "file": "Sem1/Prog1/9. Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Mere om løkker og generering af tilfældige tal"
+              "title": "9. Arrays"
             }
           },
           {
@@ -197,15 +197,18 @@
   },
   "active": "e951312dc109696d",
   "lastOpenFiles": [
-    "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
+    "Sem1/Prog1/Slides/slides-09-arrays-og-referencer.pdf",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
+    "Sem1/Prog1/4. Repetition af var og metoder.md",
+    "Sem1/Prog1/5. Betingelser (If and else).md",
+    "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
+    "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/7. Input og scanner.md",
+    "Pasted image 20260217123343.png",
     "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
     "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf",
     "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf",
     "Sem1/SysUd/2. Informationsindsamling.md",
-    "Sem1/Prog1/5. Betingelser (If and else).md",
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
     "Sem1/Prog1/Slides/slides-06-while-rekursion-og-mere-om-strings.pdf",
     "Sem1/SysUd/0. Cays plan link.md",
     "Sem1/images/Untitled.base",
