@@ -102,7 +102,7 @@ public class Ovelser9 {
             System.out.println("\nThis seat is occupied");
         } else {
             arr[theSeat] = 0;
-            System.out.printf("\nYou purchased seat: %s in row: %s\n", seat, row);
+            System.out.printf("\nYou have purchased seat: %s in row: %s\n", seat, row);
         }
     }
 
