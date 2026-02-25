@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/7. Input og scanner.md",
+                "file": "Sem1/Prog1/11. Klasser som værktøjskasser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Input og scanner"
+              "title": "11. Klasser som værktøjskasser"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem1/Prog1/7. Input og scanner.md",
+                "file": "Sem1/Prog1/11. Klasser som værktøjskasser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7. Input og scanner"
+              "title": "Backlinks for 11. Klasser som værktøjskasser"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem1/Prog1/7. Input og scanner.md",
+                "file": "Sem1/Prog1/11. Klasser som værktøjskasser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7. Input og scanner"
+              "title": "Outgoing links from 11. Klasser som værktøjskasser"
             }
           },
           {
@@ -214,10 +214,10 @@
   },
   "active": "c73ad0b5198597ba",
   "lastOpenFiles": [
+    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
     "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/11. Klasser som værktøjskasser.md",
     "Sem1/Prog1/1. Hello world and syntax stuffs.md",
     "Sem1/IT- og forretningsudvikling/Slides/SEM1-ITO-01 Intro-OrgTeori.pdf",
