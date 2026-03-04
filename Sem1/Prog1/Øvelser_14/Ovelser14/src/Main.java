@@ -25,7 +25,7 @@ public class Main {
         Loan loan2 = new Loan(member1,
                 book2,
                 LocalDate.of(2024, 6, 3));
-        
+
         System.out.println(loan1);
         System.out.println();
         System.out.println(loan2);
