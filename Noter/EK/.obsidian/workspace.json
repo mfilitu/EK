@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/16. Arv og abstrakte klasser.md",
+                "file": "Sem1/SysUd/5. SCRUM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Arv og abstrakte klasser"
+              "title": "5. SCRUM"
             }
           }
         ]
@@ -195,15 +195,18 @@
   },
   "active": "56d9c9635f387384",
   "lastOpenFiles": [
+    "Sem1/Prog1/7. Input og scanner.md",
+    "Sem1/Prog1/9. Arrays.md",
+    "Sem1/Prog1/Slides/slides-15-indkapsling.pdf",
+    "Sem1/Prog1/15. Indkapsling.md",
+    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
+    "Sem1/SysUd/4. Domain model.md",
+    "Sem1/SysUd/5. SCRUM.md",
     "Sem1/Prog1/4. Repetition af var og metoder.md",
     "Sem1/Prog1/5. Betingelser (If and else).md",
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
-    "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/10. Arrays fortsat.md",
-    "Sem1/Prog1/15. Indkapsling.md",
-    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
     "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
     "Sem1/Prog1/11. Klasser som værktøjskasser.md",
     "copilot/copilot-conversations/Provide_three_follow-up_questions_worded_as_if_I'm_asking_you@20260228_235221.md",
@@ -213,18 +216,15 @@
     "Sem1/Prog1/Slides/slides-04-repetition-af-variabler-og-metoder.pdf",
     "Sem1/Prog1/Slides/slides-05-betingelser-og-logik.pdf",
     "Sem1/Prog1/Slides/slides-06-input-og-scanner.pdf",
-    "slides-06-input-og-scanner.pdf",
+    "Sem1/Prog1/Slides/slides-06-input-og-scanner 1.pdf",
     "Sem1/Prog1/Slides/slides-08-for-og-random.pdf",
     "Sem1/Prog1/Slides/slides-11-klasser-som-vaerktoejskasser.pdf",
     "Sem1/Prog1/Slides/slides-12-klasser-som-brugerdefinerede-typer.pdf",
     "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
     "Sem1/Prog1/Slides/slides-13-objekter-med-tilstand-og-adfaerd.pdf",
     "Sem1/Prog1/14. Komposition.md",
-    "Sem1/Prog1/Slides/slides-15-indkapsling.pdf",
     "Sem1/IT- og forretningsudvikling/3. Organisationsformer Risk management.md",
     "Sem1/Prog1/Slides/slides-14-komposition.pdf",
-    "Sem1/SysUd/4. Domain model.md",
-    "Sem1/SysUd/5. SCRUM.md",
     "Sem1/SysUd/0. Cays plan link.md",
     "Untitled.canvas",
     "2026-02-28.md",
@@ -240,7 +240,6 @@
     "Sem1/images/Pasted image 20260226125425.png",
     "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
-    "Sem1/IT- og forretningsudvikling/1. Intro.md",
-    "Sem1/SysUd/1. Intro til Systemudvikling.md"
+    "Sem1/IT- og forretningsudvikling/1. Intro.md"
   ]
 }
