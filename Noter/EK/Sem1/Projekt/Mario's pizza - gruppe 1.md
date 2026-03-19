@@ -6,7 +6,7 @@ GitHub: [Link](https://github.com/mfilitu/Marios_Pizza)
 # Overordnet plan
 - [x] Læs case + opgaveforståelse
 - [x] Opstart et gantt diagram
-	- [ ] Dette udfyldes løbende
+	- [x] Dette udfyldes løbende
 - [x] Find requirements (liste af features til projektet)
 	- FURPS+
 	- [x] Use cases
