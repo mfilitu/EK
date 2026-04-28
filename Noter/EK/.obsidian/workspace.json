@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/22. Sortering.md",
+                "file": "Sem1/SysUd/0. Cays plan link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. Sortering"
+              "title": "0. Cays plan link"
             }
           },
           {
@@ -231,30 +231,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "64106f395bd46b17",
+  "active": "f24ec078d58ba988",
   "lastOpenFiles": [
-    "Sem1/IT- og forretningsudvikling/5. Analyseredskaber og projekt.md",
+    "Sem1/Prog1/Eksamen/Proveeksamen_1/src/Tekst.java~",
+    "Sem1/Prog1/Eksamen/Proveeksamen_1/out/production/Proveeksamen_1/Main.class",
+    "Sem1/Prog1/Eksamen/Proveeksamen_1/src/Main.java~",
+    "Sem1/Prog1/Eksamen/proeveeksamen-4.pdf",
+    "Sem1/Prog1/Eksamen/Proveeksamen_4/Proveeksamen_4.iml",
+    "Sem1/Prog1/Eksamen/Proveeksamen_4/src",
+    "Sem1/Prog1/Eksamen/Proveeksamen_4",
+    "Sem1/Prog1/Eksamen/Proveeksamen_3/out/production/Proveeksamen_3/Main.class",
+    "Sem1/Prog1/Eksamen/Proveeksamen_3/out/production/Proveeksamen_3/Raflebæger.class",
+    "Sem1/Prog1/Eksamen/Proveeksamen_3/src/Raflebæger.java~",
+    "Sem1/Prog1/Eksamen/Proveeksamen_3/out/production/Proveeksamen_3",
     "Sem1/Prog1/22. Sortering.md",
+    "Pasted image 20260416092749.png",
+    "Sem1/IT- og forretningsudvikling/5. Analyseredskaber og projekt.md",
     "Sem1/Prog1/21. Arv og interfaces.md",
-    "Sem1/Prog1/Slides/slides-24-arv-med-interfaces.pdf",
     "Sem1/Prog1/17. Unit tests.md",
     "Sem1/Prog1/18. Fejl og undtagelser.md",
     "Sem1/Prog1/16. Arv og abstrakte klasser.md",
     "Sem1/Prog1/15. Indkapsling.md",
     "Sem1/Prog1/9. Arrays.md",
-    "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf",
     "Sem1/SysUd/7. Class diagram.md",
-    "Sem1/SysUd/Slides/utf-8''Domain_20model_20Diagram_20cahl_202026.pdf",
     "Sem1/SysUd/4. Domain model.md",
     "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
-    "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf",
     "Sem1/SysUd/6. Aktivitetsdiagram.md",
     "Sem1/Prog1/19. Filer i java.md",
-    "Sem1/SysUd/Kode",
-    "Sem1/SysUd/Slides/Activity diagram cahl 2026.pdf",
     "().md",
     "Sem1/Prog1/14. Komposition.md",
-    "Sem1/Projekt/Mats/Mario-projekt F26A.pdf",
     "Sem1/SysUd/5. SCRUM.md",
     "Sem1/SysUd/0. Cays plan link.md",
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
@@ -262,13 +267,9 @@
     "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
     "Sem1/SysUd/2. Informationsindsamling.md",
     "Sem1/Projekt/Mario's pizza - gruppe 1.md",
-    "Sem1/IT- og forretningsudvikling/Slides/Process modeller scrum cahl 2026.pdf",
     "[Gruppe.md",
-    "Sem1/IT- og forretningsudvikling/Slides/5-OrgDesign-Risiko2.pdf",
     "Sem1/IT- og forretningsudvikling/4. Strategi og Ledelse.md",
     "Sem1/Prog1/7. Input og scanner.md",
-    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
-    "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
     "Sem1/IT- og forretningsudvikling/Slides/daily-scrum-meeting-1.png",
@@ -278,7 +279,6 @@
     "Sem1/images/Pasted image 20260226183048.png",
     "Sem1/images/Pasted image 20260226182613.png",
     "Sem1/images/Pasted image 20260226182449.png",
-    "Sem1/images/Pasted image 20260226182130.png",
-    "Sem1/images/Pasted image 20260226125425.png"
+    "Sem1/images/Pasted image 20260226182130.png"
   ]
 }
