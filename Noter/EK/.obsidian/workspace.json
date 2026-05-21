@@ -11,24 +11,90 @@
             "id": "64106f395bd46b17",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sem1/Projekt 2/mats/Svømmeklubben Delfinen forår 2026 v2..pdf"
+                "file": "Sem1/Projekt 2/Svømmeklubben.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Svømmeklubben Delfinen forår 2026 v2."
+              "icon": "lucide-file",
+              "title": "Svømmeklubben"
             }
           },
           {
-            "id": "f38b691628822a34",
+            "id": "3325c90f15667d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem1/SysUd/7. Class diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Class diagram"
+            }
+          },
+          {
+            "id": "3fe9856d291f9a82",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/IT- og forretningsudvikling/Slides/Process modeller scrum cahl 2026.pdf"
+                "file": "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Process modeller scrum cahl 2026"
+              "title": "Class diagram cahl 2026"
+            }
+          },
+          {
+            "id": "f4a15b25ff448793",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/IT- og forretningsudvikling/Slides/4-forretningsgrundlag.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-forretningsgrundlag"
+            }
+          },
+          {
+            "id": "5bbb8acb2492ef66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem1/Prog1/19. Filer i java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19. Filer i java"
+            }
+          },
+          {
+            "id": "b7ee33bbad379519",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UML_Use Case Diagram cahl 2026"
+            }
+          },
+          {
+            "id": "ef3859742679b526",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/Projekt/Mats/Mario-projekt F26A.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mario-projekt F26A"
             }
           }
         ]
@@ -205,43 +271,43 @@
   },
   "active": "64106f395bd46b17",
   "lastOpenFiles": [
-    "Sem1/Projekt 2/mats/samarbejdskontrakt.pdf",
-    "Sem1/IT- og forretningsudvikling/Slides/Process modeller scrum cahl 2026.pdf",
+    "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf",
+    "Sem1/SysUd/7. Class diagram.md",
     "Sem1/Projekt 2/mats/Svømmeklubben Delfinen forår 2026 v2..pdf",
     "Sem1/Projekt 2/Svømmeklubben.md",
-    "Sem1/SysUd/5. SCRUM.md",
-    "Sem1/Projekt 2/mats",
-    "Sem1/Projekt 2.md",
-    "Sem1/Projekt 2",
-    "Sem1/SysUd/9. Kvalitetssikring.md",
-    "Sem1/SysUd/6. Aktivitetsdiagram.md",
-    "Sem1/SysUd/7. Class diagram.md",
-    "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf",
-    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
-    "Sem1/SysUd/10. Comprehension.md",
-    "Sem1/SysUd/Slides/Kvalitetssikring cahl 2026.pdf",
-    "Sem1/SysUd/2. Informationsindsamling.md",
-    "Sem1/SysUd/4. Domain model.md",
-    "Sem1/SysUd/1. Intro til Systemudvikling.md",
-    "Sem1/SysUd/0. Cays plan link.md",
-    "Sem1/Prog1/Eksamen/Proveeksamen_1/src/Tekst.java~",
-    "Sem1/Prog1/Eksamen/Proveeksamen_1/out/production/Proveeksamen_1/Main.class",
-    "Sem1/Prog1/Eksamen/Proveeksamen_1/src/Main.java~",
-    "Sem1/Prog1/Eksamen/proeveeksamen-4.pdf",
-    "Sem1/Prog1/22. Sortering.md",
-    "Pasted image 20260416092749.png",
-    "Sem1/IT- og forretningsudvikling/5. Analyseredskaber og projekt.md",
-    "Sem1/Prog1/21. Arv og interfaces.md",
-    "Sem1/Prog1/17. Unit tests.md",
     "Sem1/Prog1/18. Fejl og undtagelser.md",
-    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
-    "Sem1/Prog1/15. Indkapsling.md",
-    "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/19. Filer i java.md",
-    "().md",
-    "Sem1/Prog1/14. Komposition.md",
+    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
+    "Sem1/Prog1/9. Arrays.md",
+    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
+    "Sem1/Prog1/10. Arrays fortsat.md",
+    "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
+    "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
+    "Sem1/Prog1/5. Betingelser (If and else).md",
+    "Sem1/SysUd/4. Domain model.md",
+    "Sem1/SysUd/5. SCRUM.md",
+    "Sem1/SysUd/1. Intro til Systemudvikling.md",
+    "Sem1/SysUd/2. Informationsindsamling.md",
+    "Sem1/IT- og forretningsudvikling/Slides/4-forretningsgrundlag.pdf",
+    "Sem1/IT- og forretningsudvikling/Slides/Semesterplan F26A ITU1.pdf",
+    "Sem1/Projekt/Mario's pizza - gruppe 1.md",
+    "Sem1/SysUd/9. Kvalitetssikring.md",
+    "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf",
+    "Sem1/Projekt/Mats/Mario-projekt F26A.pdf",
+    "().md",
+    "[Gruppe.md",
+    "Pasted image 20260416092749.png",
+    "Sem1/Prog1/22. Sortering.md",
+    "Sem1/SysUd/Slides/Kvalitetssikring cahl 2026.pdf",
+    "Sem1/SysUd/10. Comprehension.md",
+    "Sem1/Projekt 2/mats/samarbejdskontrakt.pdf",
+    "Sem1/Projekt 2/mats",
+    "Sem1/Projekt 2",
+    "Sem1/Prog1/Eksamen/proeveeksamen-4.pdf",
+    "Sem1/IT- og forretningsudvikling/5. Analyseredskaber og projekt.md",
+    "Sem1/Prog1/21. Arv og interfaces.md",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
     "Sem1/IT- og forretningsudvikling/Slides/daily-scrum-meeting-1.png",
