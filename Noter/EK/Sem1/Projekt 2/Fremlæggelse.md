@@ -1,0 +1,5 @@
+Domain model
+Vi har brugt vores use cases til at identificere de konceptuelle klasser vi havde brug for i vores  produkt. Dette kan fx. ses på klassen medlem som har subklasserne junior og senior.  Et medlem har en kontingent, denne klasse holder styr på restance og betaling. Et medlem kan være en del af et hold, det kan træneren også og et hold kan have mange medlemmer men kun en træner. Derudover har har vi også en konkurrence klasse hvor 2 til mange hold kan deltage og et hold kan være med i en eller flere konkurrencer.
+
+Klasse diagram
+Vi har også lavet et klassediagram, her kan man blandt andet se attributterne og metoderne på de forskellige klasser. Dette diagram har hjulpet os rigtig meget i designfasen ifm. member klassen og hvordan denne skulle struktureres. Vi har så valgt at member skal have 2 subklasser aktiv og passiv som arver fra member og junior og senior som arver fra activemember.
