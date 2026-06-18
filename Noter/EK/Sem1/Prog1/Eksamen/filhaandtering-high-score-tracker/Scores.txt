@@ -1,0 +1,4 @@
+Mateusz,500
+Bo,255
+Peter,1000
+Julius,750
