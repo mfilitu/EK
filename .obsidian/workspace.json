@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9de6a8f4298c8f2a",
+    "id": "d8c338584635f41f",
     "type": "split",
     "children": [
       {
-        "id": "2363d6b8032fef89",
+        "id": "a79edc80a7190431",
         "type": "tabs",
         "children": [
           {
-            "id": "14a03147e04081c9",
+            "id": "8948e92066ac8495",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "356f40dc50d7ee04",
+    "id": "491da09f88a86df1",
     "type": "split",
     "children": [
       {
-        "id": "b09b51cc8207314b",
+        "id": "484d4c5348c69e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "f24ec078d58ba988",
+            "id": "f503826bf896429f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,13 +46,13 @@
             }
           },
           {
-            "id": "d2068d4334bb5703",
+            "id": "8371b5418f3d9ef0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -63,11 +63,14 @@
             }
           },
           {
-            "id": "1af6113ad3144d09",
+            "id": "b9883ccb6837aef1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -79,20 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "a2812fc377a4a3e7",
+    "id": "6e5ccb74cd0a622c",
     "type": "split",
     "children": [
       {
-        "id": "0faf13b898cdc22e",
+        "id": "5ab0a87bb5453458",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ba1506edc8f47c",
+            "id": "d4031c5f68440f62",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem1/SysUd/4. Domain model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Domain model"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "affec2206906e382",
+            "id": "f40b8063e571c373",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem1/Prog1/1. Hello world and syntax stuffs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Hello world and syntax stuffs"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bef6c657c97aad60",
+            "id": "d7305f8e0d44927f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +136,7 @@
             }
           },
           {
-            "id": "fe28b31f9a62ad77",
+            "id": "903abfafd3d1fee0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,32 +150,20 @@
             }
           },
           {
-            "id": "d688905549ce347e",
+            "id": "4a8253f3ea5e0f2c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem1/SysUd/4. Domain model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Domain model"
-            }
-          },
-          {
-            "id": "35485376c6920291",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,62 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f24ec078d58ba988",
+  "active": "8948e92066ac8495",
   "lastOpenFiles": [
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/Biography.class",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/Main.class",
-    "Sem1/Prog1/Eksamen/exam/src/Biography.java~",
-    "Sem1/Prog1/Eksamen/exam/src/Biography.java",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/BookStore.class",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/Book.class",
-    "Sem1/Prog1/Eksamen/exam/src/Main.java",
-    "Sem1/Prog1/Eksamen/exam/src/BookStore.java~",
-    "Sem1/Prog1/Eksamen/exam/src/BookStore.java",
-    "Sem1/Prog1/Eksamen/exam/src/Book.java",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam",
-    "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
-    "Sem1/Prog1/9. Arrays.md",
-    "Sem1/Prog1/10. Arrays fortsat.md",
-    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
-    "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
-    "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
-    "Sem1/Prog1/19. Filer i java.md",
-    "Sem2",
-    "Sem1/images/Pasted image 20260416092749.png",
-    "[Gruppe.md",
-    "().md",
-    "Sem1/Prog1/18. Fejl og undtagelser.md",
-    "Sem1/Prog1/17. Unit tests.md",
-    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
-    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
-    "Sem1/Prog1/17. Unit tests.md",
-    "Sem1/Prog1/18. Fejl og undtagelser.md",
-    "Sem1/Prog1/15. Indkapsling.md",
-    "Sem1/Prog1/14. Komposition.md",
-    "Sem1/Prog1/7. Input og scanner.md",
-    "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem1/Prog1/5. Betingelser (If and else).md",
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
-    "Sem1/Prog1/22. Sortering.md",
-    "Sem1/SysUd/7. Class diagram.md",
-    "Sem1/SysUd/4. Domain model.md",
-    "Sem1/Projekt 2/Fremlæggelse.md",
-    "Sem1/Projekt 2/Svømmeklubben.md",
-    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
-    "Sem1/SysUd/5. SCRUM.md",
-    "Sem1/SysUd/1. Intro til Systemudvikling.md",
-    "Sem1/SysUd/2. Informationsindsamling.md",
-    "Sem1/Projekt/Mario's pizza - gruppe 1.md",
-    "Pasted image 20260416092749.png",
-    "Untitled.canvas",
-    "Sem1/images/Pasted image 20260202105154.png",
-    "Sem1/IT- og forretningsudvikling/Slides/daily-scrum-meeting-1.png",
-    "Sem1/images/Pasted image 20260226185612.png",
-    "Sem1/images/Pasted image 20260226185346.png",
-    "Sem1/images/Pasted image 20260226184303.png",
-    "Sem1/images/Pasted image 20260226183048.png",
-    "Sem1/images/Pasted image 20260226182613.png",
-    "Sem1/images/Pasted image 20260226182449.png",
-    "Sem1/images/Pasted image 20260226182130.png"
+    "Noter/EK/Sem2",
+    "Noter/EK/Untitled",
+    "Noter/EK/Sem1/images/Pasted image 20260416092749.png",
+    "Noter/EK/copilot/copilot-conversations/Provide_three_follow-up_questions_worded_as_if_I'm_asking_you@20260228_235221.md"
   ]
 }
