@@ -15,13 +15,95 @@ public class main {
 
         //ArrayList vs LinkedList
 
+        /*
+        addFirstArrayList(1000);
+        addFirstLinkedList(1000);
+
+        addFirstArrayList(10000);
+        addFirstLinkedList(10000);
+
+        addFirstArrayList(10000);
+        addFirstLinkedList(10000);
+
         addFirstArrayList(1000000);
-
-        addFirstLinkedList(1000000);
-
+        addFirstLinkedList(1000000);*/
 
 
+        ArrayList<Integer> arrayList = addLastArrayList(1000);
+        LinkedList<Integer> linkedList = addLastLinkedList(1000);
+        getArrayList(arrayList);
+        getLinkedList(linkedList);
 
+        ArrayList<Integer> arrayList1 = addLastArrayList(10000);
+        LinkedList<Integer> linkedList1 = addLastLinkedList(10000);
+        getArrayList(arrayList1);
+        getLinkedList(linkedList1);
+
+        ArrayList<Integer> arrayList2 = addLastArrayList(100000);
+        LinkedList<Integer> linkedList2 = addLastLinkedList(100000);
+        getArrayList(arrayList2);
+        getLinkedList(linkedList2);
+
+        ArrayList<Integer> arrayList3 = addLastArrayList(100000);
+        LinkedList<Integer> linkedList3 = addLastLinkedList(100000);
+        getArrayList(arrayList3);
+        getLinkedList(linkedList3);
+
+
+
+
+
+
+    }
+
+    public static void getArrayList(ArrayList<Integer> arrayList) {
+        long before = System.nanoTime();
+
+        for (int i = 0; i < arrayList.size(); i++) {
+            arrayList.get(i);
+        }
+
+        long after = System.nanoTime();
+        long time = after - before;
+        System.out.println(time / 1000000.0 + " ms");
+    }
+
+    public static void getLinkedList(LinkedList<Integer> linkedList) {
+        long before = System.nanoTime();
+
+        for (int i = 0; i < linkedList.size(); i++) {
+            linkedList.get(i);
+        }
+        long after = System.nanoTime();
+        long time = after - before;
+        System.out.println(time / 1000000.0 + " ms");
+    }
+
+
+    public static LinkedList<Integer> addLastLinkedList(int n){
+        long before = System.nanoTime();
+        LinkedList<Integer> linked = new LinkedList<>();
+
+        for (int i = 0; i < n; i++) {
+            linked.addLast(i);
+        }
+        long after = System.nanoTime();
+        long time = after-before;
+        System.out.println(time / 1000000.0 + " milli");
+        return linked;
+    }
+
+    public static ArrayList<Integer> addLastArrayList(int n){
+        long before = System.nanoTime();
+        ArrayList<Integer> arrayList = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            arrayList.addLast(i);
+        }
+        long after = System.nanoTime();
+        long time = after-before;
+        System.out.println(time / 1000000.0 + " milli");
+        return arrayList;
     }
 
     public static LinkedList<Integer> addFirstLinkedList(int n){
