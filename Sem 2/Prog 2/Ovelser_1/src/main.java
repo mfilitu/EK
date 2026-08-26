@@ -1,6 +1,5 @@
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Locale;
+import java.lang.reflect.Array;
+import java.util.*;
 
 public class main {
     public static void main(String[] args) {
@@ -12,6 +11,13 @@ public class main {
         //System.out.println(grass(0, 0.8));
 
         //square(6, "%");
+
+        //System.out.println(properCase("HEJ meD diG mateusz"));
+
+        //Sortering();
+
+        //søg();
+
 
         //ArrayList vs LinkedList
 
@@ -28,7 +34,7 @@ public class main {
         addFirstArrayList(1000000);
         addFirstLinkedList(1000000);*/
 
-
+        /*
         ArrayList<Integer> arrayList = addLastArrayList(1000);
         LinkedList<Integer> linkedList = addLastLinkedList(1000);
         getArrayList(arrayList);
@@ -47,13 +53,73 @@ public class main {
         ArrayList<Integer> arrayList3 = addLastArrayList(100000);
         LinkedList<Integer> linkedList3 = addLastLinkedList(100000);
         getArrayList(arrayList3);
-        getLinkedList(linkedList3);
+        getLinkedList(linkedList3);*/
+
+
+    }
+
+    private static void søg() {
+        ArrayList<String> myArr = new ArrayList<>();
+        myArr.add("Hej");
+        myArr.add("med");
+        myArr.add("dig");
+
+        System.out.println(sogning(myArr, "lol"));
+        System.out.println(sogning(myArr, "Hej"));
+        System.out.println(sogning(myArr, "med"));
+        System.out.println(sogning(myArr, "dig"));
+    }
+
+    public static int sogning(ArrayList<String> array, String s){
+
+        for (String word : array){
+            if (s.equals(word)){
+                return array.indexOf(word);
+            }
+        }
+        return -1;
+    }
+
+    public static void Sortering(){
+        Scanner scanner = new Scanner(System.in);
+
+        String[] asd = new String[5];
+
+        ArrayList<String> myArr = new ArrayList<>();
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Indtast et ord:");
+            myArr.add(scanner.nextLine());
+
+        }
+
+        Collections.sort(myArr, Collections.reverseOrder());
+
+        for (String word : myArr){
+            System.out.println(word);
+        }
+
+    }
+
+    public static String properCase(String s){
+        String[] data = s.split(" ");
+
+        String result = "";
+
+        for (String words : data) {
+            if (words.equals(words.toUpperCase())){
+                result += (words + " ");
+            } else if (words.length() > 3) {
+                result += (words.substring(0,1).toUpperCase() + words.substring(1).toLowerCase() + " ");
+
+            } else if (words.length() <= 3){
+                result += words.toLowerCase() + " ";
+            }
+        }
 
 
 
-
-
-
+        return result;
     }
 
     public static void getArrayList(ArrayList<Integer> arrayList) {
@@ -65,7 +131,7 @@ public class main {
 
         long after = System.nanoTime();
         long time = after - before;
-        System.out.println(time / 1000000.0 + " ms");
+        System.out.println("getArrayList: " + time / 1000000.0 + " milli");
     }
 
     public static void getLinkedList(LinkedList<Integer> linkedList) {
@@ -76,7 +142,7 @@ public class main {
         }
         long after = System.nanoTime();
         long time = after - before;
-        System.out.println(time / 1000000.0 + " ms");
+        System.out.println("getLinkedList: " + time / 1000000.0 + " milli");
     }
 
 

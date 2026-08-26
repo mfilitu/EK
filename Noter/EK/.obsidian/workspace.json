@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -198,6 +196,8 @@
   },
   "active": "14a03147e04081c9",
   "lastOpenFiles": [
+    "Sem1/Prog1/7. Input og scanner.md",
+    "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
     "Sem1/Prog1/3. Metoder.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
@@ -208,8 +208,6 @@
     "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
     "Sem1/Prog1/11. Klasser som værktøjskasser.md",
     "Sem1/Prog1/10. Arrays fortsat.md",
-    "Sem1/Prog1/9. Arrays.md",
-    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
     "Sem2/Prog2/0. Litteratur.md",
     "Sem2/Prog2/1. Collections 1.md",
