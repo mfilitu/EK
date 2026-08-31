@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Prog1/9. Arrays.md",
+                "file": "Sem2/Prog2/3. HTML+CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Arrays"
+              "title": "3. HTML+CSS"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -196,8 +198,13 @@
   },
   "active": "14a03147e04081c9",
   "lastOpenFiles": [
-    "Sem1/Prog1/7. Input og scanner.md",
+    "Sem2/Prog2/Slides/04 HTML intro.pdf",
+    "Sem2/Prog2/2. Collections 2.md",
+    "Sem2/Prog2/3. HTML+CSS.md",
     "Sem1/Prog1/9. Arrays.md",
+    "Sem2/IT- og foretningsudvikling/Slides",
+    "Sem2/IT- og foretningsudvikling",
+    "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
     "Sem1/Prog1/3. Metoder.md",
     "Sem1/Prog1/2. Variabler og expressions.md",
@@ -219,8 +226,6 @@
     "Sem2/Prog2",
     "Sem2",
     "Sem1/Prog1/Eksamen/exam/out/production/exam/Biography.class",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/Main.class",
-    "Sem1/Prog1/Eksamen/exam/src/Biography.java~",
     "Sem1/Prog1/19. Filer i java.md",
     "Sem1/images/Pasted image 20260416092749.png",
     "[Gruppe.md",
@@ -230,9 +235,6 @@
     "Sem1/Prog1/17. Unit tests.md",
     "Sem1/Prog1/18. Fejl og undtagelser.md",
     "Sem1/Prog1/5. Betingelser (If and else).md",
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
-    "Sem1/Prog1/22. Sortering.md",
-    "Sem1/SysUd/7. Class diagram.md",
     "Pasted image 20260416092749.png",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
