@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem2/Prog2/3. HTML+CSS.md",
+                "file": "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. HTML+CSS"
+              "title": "1. Model-View-Controller (MVC) Pattern"
             }
           }
         ]
@@ -198,9 +198,12 @@
   },
   "active": "14a03147e04081c9",
   "lastOpenFiles": [
+    "Sem2/Prog2/3. HTML+CSS.md",
+    "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
+    "Sem2/SysUd/Slides",
+    "Sem2/SysUd",
     "Sem2/Prog2/Slides/04 HTML intro.pdf",
     "Sem2/Prog2/2. Collections 2.md",
-    "Sem2/Prog2/3. HTML+CSS.md",
     "Sem1/Prog1/9. Arrays.md",
     "Sem2/IT- og foretningsudvikling/Slides",
     "Sem2/IT- og foretningsudvikling",
@@ -223,9 +226,6 @@
     "Sem2/Prog2/Slides/01 Intro 1.pptx",
     "Sem2/Prog2/Slides/01 Intro.pptx",
     "Sem2/Prog2/Slides",
-    "Sem2/Prog2",
-    "Sem2",
-    "Sem1/Prog1/Eksamen/exam/out/production/exam/Biography.class",
     "Sem1/Prog1/19. Filer i java.md",
     "Sem1/images/Pasted image 20260416092749.png",
     "[Gruppe.md",
