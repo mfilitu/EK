@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e1b93d-826a-4112-80c0-c320adfe1fd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Noter/EK/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Noter/EK/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Fotoalbum.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fotoalbum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mateuszfilipowski/Documents/GitHub/EK/Sem 2/Prog 2/Ovelser_3/src",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
