@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e1b93d-826a-4112-80c0-c320adfe1fd4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fotoalbum.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fotoalbum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ovelser_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ovelser_2/src/Telefonliste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +46,11 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mateuszfilipowski/Documents/GitHub/EK/Sem 2/Prog 2/Ovelser_3/src",
+    "last_opened_file_path": "C:/Users/mobtr/Desktop/EK/Sem 2/Prog 2/Ovelser_3",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,8 +74,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -87,6 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788173642562</updated>
+      <workItem from="1788332838661" duration="356000" />
     </task>
     <servers />
   </component>
