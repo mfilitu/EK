@@ -1,0 +1,22 @@
+.name {
+    font-weight: bold;
+}
+
+.name input {
+    opacity: 50%;
+    height: 20px;
+    width: 300px;
+}
+
+.sex {
+    font-weight: bold;
+}
+
+.sex div input{
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    border: 1px solid ;
+    border-radius: 50%;
+    cursor: pointer;
+}

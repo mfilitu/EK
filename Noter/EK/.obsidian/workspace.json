@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
+                "file": "Sem2/Prog2/3. HTML+CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Model-View-Controller (MVC) Pattern"
+              "title": "3. HTML+CSS"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "14a03147e04081c9",
   "lastOpenFiles": [
-    "Sem2/Prog2/3. HTML+CSS.md",
+    "Sem2/Prog2/Slides/05 HTML layout (Jarl).pdf",
+    "Sem2/Prog2/4. Dialog og layout i HTML.md",
     "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
+    "Sem2/Prog2/3. HTML+CSS.md",
     "Sem2/SysUd/Slides",
     "Sem2/SysUd",
     "Sem2/Prog2/Slides/04 HTML intro.pdf",
@@ -225,7 +227,6 @@
     "Sem2/Prog2/Slides/~$01 Intro.pptx",
     "Sem2/Prog2/Slides/01 Intro 1.pptx",
     "Sem2/Prog2/Slides/01 Intro.pptx",
-    "Sem2/Prog2/Slides",
     "Sem1/Prog1/19. Filer i java.md",
     "Sem1/images/Pasted image 20260416092749.png",
     "[Gruppe.md",
@@ -233,8 +234,6 @@
     "Sem1/Prog1/18. Fejl og undtagelser.md",
     "Sem1/Prog1/17. Unit tests.md",
     "Sem1/Prog1/17. Unit tests.md",
-    "Sem1/Prog1/18. Fejl og undtagelser.md",
-    "Sem1/Prog1/5. Betingelser (If and else).md",
     "Pasted image 20260416092749.png",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
