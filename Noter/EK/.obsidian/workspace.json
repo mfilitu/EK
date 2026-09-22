@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem2/Prog2/3. HTML+CSS.md",
+                "file": "Sem2/Projekt 1/Madspild.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. HTML+CSS"
+              "title": "Madspild"
+            }
+          },
+          {
+            "id": "059c7ddf3692992a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/SysUd/Slides/Evolutionary Requirements and Use cases vs User stories 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Evolutionary Requirements and Use cases vs User stories 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,12 +209,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "14a03147e04081c9",
+  "active": "059c7ddf3692992a",
   "lastOpenFiles": [
+    "Sem1/SysUd/2. Informationsindsamling.md",
+    "Sem1/SysUd/1. Intro til Systemudvikling.md",
+    "Sem1/SysUd/6. Aktivitetsdiagram.md",
+    "Sem1/SysUd/4. Domain model.md",
+    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
+    "Sem1/SysUd/5. SCRUM.md",
+    "Sem2/Projekt 1/Slides/UTF-8''Projekt_201_20-_20Madspild.pdf",
+    "Sem2/Projekt 1/Madspild.md",
+    "Sem2/Projekt 1/Slides/Projekt 1.pdf",
+    "Sem2/Prog2/3. HTML+CSS.md",
+    "Sem2/Projekt 1/Slides",
+    "Sem2/Projekt 1",
     "Sem2/Prog2/Slides/05 HTML layout (Jarl).pdf",
     "Sem2/Prog2/4. Dialog og layout i HTML.md",
     "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
-    "Sem2/Prog2/3. HTML+CSS.md",
     "Sem2/SysUd/Slides",
     "Sem2/SysUd",
     "Sem2/Prog2/Slides/04 HTML intro.pdf",
@@ -223,17 +247,7 @@
     "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
     "Sem2/Prog2/0. Litteratur.md",
     "Sem2/Prog2/1. Collections 1.md",
-    "Sem2/Prog2/Slides/1 intro.pdf",
-    "Sem2/Prog2/Slides/~$01 Intro.pptx",
-    "Sem2/Prog2/Slides/01 Intro 1.pptx",
-    "Sem2/Prog2/Slides/01 Intro.pptx",
-    "Sem1/Prog1/19. Filer i java.md",
     "Sem1/images/Pasted image 20260416092749.png",
-    "[Gruppe.md",
-    "().md",
-    "Sem1/Prog1/18. Fejl og undtagelser.md",
-    "Sem1/Prog1/17. Unit tests.md",
-    "Sem1/Prog1/17. Unit tests.md",
     "Pasted image 20260416092749.png",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
