@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e1b93d-826a-4112-80c0-c320adfe1fd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ovelser_4/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Videoprojekt/src/main/java/com/example/videoprojekt/Config/InitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Videoprojekt/src/main/java/com/example/videoprojekt/Controller/pageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Videoprojekt/src/main/java/com/example/videoprojekt/Model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Videoprojekt/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Videoprojekt/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Noter/EK/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Noter/EK/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Noter/EK/Sem2/Prog2/1. Collections 1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Noter/EK/Sem2/Prog2/1. Collections 1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Noter/EK/Sem2/Prog2/4. Dialog og layout i HTML.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Noter/EK/Sem2/Prog2/4. Dialog og layout i HTML.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Noter/EK/Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Noter/EK/Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +76,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -80,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788173642562</updated>
       <workItem from="1788332838661" duration="356000" />
+      <workItem from="1790757177171" duration="503000" />
     </task>
     <servers />
   </component>
