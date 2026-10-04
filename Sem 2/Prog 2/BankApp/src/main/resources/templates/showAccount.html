@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Show Account</title>
+    <link rel="stylesheet" href="../static/style.css" th:href="@{style.css}">
+</head>
+<body>
+<div class="container">
+    <div class="square">
+        <div>
+            <label>Number:</label>
+            <span th:text="${account.accountNumber}">Number</span>
+        </div>
+        <div>
+            <label>Name:</label>
+            <span th:text="${account.accountName}">Name</span>
+        </div>
+        <div>
+            <label>Balance:</label>
+            <span th:text="${account.balance}">Balance</span>
+        </div>
+    </div>
+
+    <a th:href="@{/}" class="btn">Back</a>
+</div>
+<div class="buttons">
+    <div class="modify-forms">
+        <form th:action="@{/deposit}" method="post" class="modify-form">
+
+            <input type="hidden"
+                   name="accountNumber"
+                   th:value="${account.accountNumber}">
+
+            <input type="number"
+                   name="amount"
+                   placeholder="Enter amount"
+                   step="0.01"
+                   required>
+
+            <button type="submit" class="btn">
+                Deposit
+            </button>
+
+        </form>
+
+        <form th:action="@{/withdraw}" method="post" class="modify-form">
+
+            <input type="hidden"
+                   name="accountNumber"
+                   th:value="${account.accountNumber}">
+
+            <input type="number"
+                   name="amount"
+                   placeholder="Enter amount"
+                   step="0.01"
+                   required>
+
+            <button type="submit" class="btn">
+                Withdraw
+            </button>
+
+        </form>
+
+        <form th:action="@{/transfer}" method="post" class="modify-form">
+
+            <input type="hidden"
+                   name="currentAccountNumber"
+                   th:value="${account.accountNumber}">
+
+            <input type="number"
+                   name="accountNumber"
+                   placeholder="Enter transfer number" required>
+
+            <input type="number"
+                   name="amount"
+                   placeholder="Enter amount"
+                   step="0.01"
+                   required>
+
+            <button type="submit" class="btn">
+                Transfer
+            </button>
+
+        </form>
+
+
+    </div>
+</div>
+</body>
+</html>
