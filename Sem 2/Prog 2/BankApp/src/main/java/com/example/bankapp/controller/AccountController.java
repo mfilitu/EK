@@ -52,7 +52,8 @@ public class AccountController {
     @PostMapping("/deposit")
     public String deposit(
             @RequestParam("accountNumber") int accountNumber,
-            @RequestParam("amount") double amount) {
+            @RequestParam("amount") double amount,
+            Model model) throws Exception {
 
         Account account =
                 accountRepository.getAccountByNumber(accountNumber);
@@ -60,18 +61,24 @@ public class AccountController {
         double newBalance =
                 account.getBalance() + amount;
 
-        accountRepository.updateBalance(
-                accountNumber,
-                newBalance
-        );
+        try {
+            accountRepository.updateBalance(
+                    accountNumber,
+                    newBalance
+            );
+            return "redirect:/showAccount?accountNumber=" + accountNumber;
+        } catch (Exception e) {
+            model.addAttribute("message", e.getMessage());
+            return "error";
+        }
 
-        return "redirect:/showAccount?accountNumber=" + accountNumber;
     }
 
     @PostMapping("/withdraw")
     public String withdraw(
             @RequestParam("accountNumber") int accountNumber,
-            @RequestParam("amount") double amount) {
+            @RequestParam("amount") double amount,
+            Model model) throws Exception {
 
         Account account =
                 accountRepository.getAccountByNumber(accountNumber);
@@ -79,18 +86,23 @@ public class AccountController {
         double newBalance =
                 account.getBalance() - amount;
 
-        accountRepository.updateBalance(
-                accountNumber,
-                newBalance
-        );
+        try {
+            accountRepository.updateBalance(
+                    accountNumber,
+                    newBalance
+            );
+            return "redirect:/showAccount?accountNumber=" + accountNumber;
+        } catch (Exception e) {
+            model.addAttribute("message", e.getMessage());
+            return "error";
+        }
 
-        return "redirect:/showAccount?accountNumber=" + accountNumber;
     }
 
     @PostMapping("/transfer")
     public String transfer(@RequestParam("currentAccountNumber") int currentAccountNumber,
-            @RequestParam("accountNumber") int accountNumber,
-            @RequestParam("amount") double amount) {
+                           @RequestParam("accountNumber") int accountNumber,
+                           @RequestParam("amount") double amount, Model model) throws Exception {
 
         Account account1 =
                 accountRepository.getAccountByNumber(currentAccountNumber);
@@ -102,17 +114,22 @@ public class AccountController {
                 account1.getBalance() - amount;
         double to =
                 account2.getBalance() + amount;
+        try {
+            accountRepository.updateBalance(
+                    currentAccountNumber,
+                    from
+            );
+            accountRepository.updateBalance(
+                    accountNumber,
+                    to
+            );
+            return "redirect:/showAccount?accountNumber=" + currentAccountNumber;
+        } catch (Exception e) {
+            model.addAttribute("message", e.getMessage());
+            return "error";
+        }
 
-        accountRepository.updateBalance(
-                currentAccountNumber,
-                from
-        );
-        accountRepository.updateBalance(
-                accountNumber,
-                to
-        );
 
-        return "redirect:/showAccount?accountNumber=" + currentAccountNumber;
     }
 
 }
