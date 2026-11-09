@@ -11,32 +11,27 @@
             "id": "14a03147e04081c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Model-View-Controller (MVC) Pattern"
+              "icon": "lucide-file-text",
+              "title": "UML_Use Case Diagram cahl 2026"
             }
           },
           {
             "id": "74f284ebaedce68b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sem2/SysUd/2. Software Quality & Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Software Quality & Testing"
+              "icon": "lucide-file-text",
+              "title": "System Sequence Diagram cahl 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diagram",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,11 +207,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "74f284ebaedce68b",
+  "active": "14a03147e04081c9",
   "lastOpenFiles": [
+    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
     "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
-    "Sem2/SysUd/2. Software Quality & Testing.md",
+    "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf",
+    "Sem1/SysUd/Slides/Activity diagram cahl 2026.pdf",
+    "Sem1/SysUd/6. Aktivitetsdiagram.md",
+    "Sem1/Projekt 2/Fremlæggelse.md",
+    "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf",
+    "Sem1/SysUd/7. Class diagram.md",
     "Sem1/Prog1/4. Repetition af var og metoder.md",
+    "Sem1/SysUd/5. SCRUM.md",
+    "Sem2/SysUd/2. Software Quality & Testing.md",
     "Sem2/SysUd/Slides/QUALITY CONCEPTS.pdf",
     "Sem2/SysUd/Slides/SOFTWARE TESTING.pdf",
     "Sem2/Prog2/5. Spring 1 - Web.md",
@@ -228,11 +232,8 @@
     "Sem2/Projekt 1/Slides",
     "Sem2/Projekt 1/Madspild.md",
     "Sem2/Projekt 1",
-    "Sem2/Prog2/Slides/05 HTML layout (Jarl).pdf",
     "Sem2/Prog2/2. Collections 2.md",
     "Sem2/Prog2/3. HTML+CSS.md",
-    "Sem2/SysUd/Slides",
-    "Sem2/SysUd",
     "Sem1/Prog1/9. Arrays.md",
     "Sem1/Prog1/7. Input og scanner.md",
     "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
@@ -243,13 +244,7 @@
     "Sem1/Prog1/14. Komposition.md",
     "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
     "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
-    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
-    "Sem1/Prog1/10. Arrays fortsat.md",
-    "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem2/Prog2/0. Litteratur.md",
-    "Sem1/Prog1/19. Filer i java.md",
     "Sem1/images/Pasted image 20260416092749.png",
-    "[Gruppe.md",
     "Pasted image 20260416092749.png",
     "Untitled.canvas",
     "Sem1/images/Pasted image 20260202105154.png",
