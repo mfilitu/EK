@@ -1,77 +1,80 @@
 {
   "main": {
-    "id": "9de6a8f4298c8f2a",
+    "id": "29d3e3e8c1f03753",
     "type": "split",
     "children": [
       {
-        "id": "2363d6b8032fef89",
+        "id": "052b4620c81c8c98",
         "type": "tabs",
         "children": [
           {
-            "id": "14a03147e04081c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/SysUd/Slides/UML_Use Case Diagram cahl 2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "UML_Use Case Diagram cahl 2026"
-            }
-          },
-          {
-            "id": "c27f8156664f79de",
+            "id": "32e40852adc287da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
+                "file": "Sem2/SysUd/2. Software Quality & Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Model-View-Controller (MVC) Pattern"
+              "title": "2. Software Quality & Testing"
             }
           },
           {
-            "id": "74f284ebaedce68b",
+            "id": "ab96f0fa6c8841a4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf"
+                "file": "Sem2/SysUd/Slides/QUALITY CONCEPTS.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "System Sequence Diagram cahl 2026"
+              "title": "QUALITY CONCEPTS"
             }
           },
           {
-            "id": "94a36db81bfa2658",
+            "id": "ae3d7fbdb6c53967",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem2/SysUd/Slides/MODEL-VIEW-CONTROLLER.pdf"
+                "file": "Sem2/SysUd/Slides/SOFTWARE TESTING.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MODEL-VIEW-CONTROLLER"
+              "title": "SOFTWARE TESTING"
+            }
+          },
+          {
+            "id": "e55da132716bd278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem2/SysUd/Pensumliste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pensumliste"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "356f40dc50d7ee04",
+    "id": "6c4f3e0265c9bbee",
     "type": "split",
     "children": [
       {
-        "id": "b09b51cc8207314b",
+        "id": "ad04b320a6ca9c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "f24ec078d58ba988",
+            "id": "205ca52464fda53f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,13 +89,13 @@
             }
           },
           {
-            "id": "d2068d4334bb5703",
+            "id": "63594cba37a28dd1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "diagram",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -103,37 +106,39 @@
             }
           },
           {
-            "id": "1af6113ad3144d09",
+            "id": "d9a03a2238307629",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "a2812fc377a4a3e7",
+    "id": "142a909d32a210f3",
     "type": "split",
     "children": [
       {
-        "id": "0faf13b898cdc22e",
+        "id": "2896f156598473b9",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ba1506edc8f47c",
+            "id": "214fe5845954ea40",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem1/SysUd/4. Domain model.md",
+                "file": "Sem2/SysUd/Pensumliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +148,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Domain model"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "affec2206906e382",
+            "id": "50307a99d0fef0b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem1/Prog1/1. Hello world and syntax stuffs.md",
+                "file": "Sem2/SysUd/Pensumliste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Hello world and syntax stuffs"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bef6c657c97aad60",
+            "id": "b8517b8b73df797e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,7 +181,7 @@
             }
           },
           {
-            "id": "fe28b31f9a62ad77",
+            "id": "e7bf1fc4c30b8063",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -190,32 +195,31 @@
             }
           },
           {
-            "id": "d688905549ce347e",
+            "id": "1deea4a6f0f7fd5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem1/SysUd/4. Domain model.md",
+                "file": "Sem2/SysUd/Pensumliste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Domain model"
+              "title": "Outline"
             }
           },
           {
-            "id": "35485376c6920291",
+            "id": "1f4146225f6d6915",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,62 +237,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "14a03147e04081c9",
+  "active": "e55da132716bd278",
   "lastOpenFiles": [
-    "Sem1/SysUd/3. Peer review, Use Case diagram og System Sequence Diagrams.md",
-    "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md",
-    "Sem1/SysUd/Slides/System Sequence Diagram cahl 2026.pdf",
-    "Sem1/SysUd/Slides/Activity diagram cahl 2026.pdf",
-    "Sem1/SysUd/6. Aktivitetsdiagram.md",
-    "Sem1/Projekt 2/Fremlæggelse.md",
-    "Sem1/SysUd/Slides/Class diagram cahl 2026.pdf",
-    "Sem1/SysUd/7. Class diagram.md",
-    "Sem2/SysUd/2. Software Quality & Testing.md",
-    "Sem2/SysUd/Slides/MODEL-VIEW-CONTROLLER.pdf",
+    "Sem2/SysUd/Images/Screenshot 2026-11-10 at 09.23.12.png",
+    "Sem2/SysUd/Images",
+    "Sem2/SysUd/Pensumliste.md",
     "().md",
-    "Sem2/SysUd/Untitled.md"
-  ],
-    "Sem1/Prog1/4. Repetition af var og metoder.md",
-    "Sem1/SysUd/5. SCRUM.md",
-    "Sem2/SysUd/2. Software Quality & Testing.md",
-    "Sem2/SysUd/Slides/QUALITY CONCEPTS.pdf",
     "Sem2/SysUd/Slides/SOFTWARE TESTING.pdf",
-    "Sem2/Prog2/5. Spring 1 - Web.md",
-    "Sem2/Prog2/Slides/09 Spring Distribuerede systemer.pdf",
-    "Sem2/Prog2/6. SQL STUFF.md",
-    "Sem2/Prog2/Slides/10 Using MySQL Workbench.pdf",
-    "Sem2/Prog2/4. Dialog og layout i HTML.md",
-    "Sem2/Prog2/1. Collections 1.md",
-    "Sem2/Projekt 1/Slides/UTF-8''Projekt_201_20-_20Madspild.pdf",
-    "Sem2/Projekt 1/Slides",
-    "Sem2/Projekt 1/Madspild.md",
-    "Sem2/Projekt 1",
-    "Sem2/Prog2/2. Collections 2.md",
-    "Sem2/Prog2/3. HTML+CSS.md",
-    "Sem2/SysUd/Slides",
-    "Sem1/Prog1/9. Arrays.md",
-    "Sem1/Prog1/7. Input og scanner.md",
-    "Sem1/Prog1/8. Mere om løkker og generering af tilfældige tal.md",
-    "Sem1/Prog1/3. Metoder.md",
-    "Sem1/Prog1/2. Variabler og expressions.md",
-    "Sem1/Prog1/16. Arv og abstrakte klasser.md",
-    "Sem1/Prog1/15. Indkapsling.md",
-    "Sem1/Prog1/14. Komposition.md",
-    "Sem1/Prog1/13. Objekter med tilstand og adfærd.md",
-    "Sem1/Prog1/12. Klasser som brugerdefinerede typer.md",
-    "Sem1/Prog1/11. Klasser som værktøjskasser.md",
-    "Sem1/Prog1/10. Arrays fortsat.md",
-    "Sem1/Prog1/6. Løkker, recursion og mere om string.md",
-    "Sem1/images/Pasted image 20260416092749.png",
-    "Pasted image 20260416092749.png",
-    "Untitled.canvas",
-    "Sem1/images/Pasted image 20260202105154.png",
-    "Sem1/IT- og forretningsudvikling/Slides/daily-scrum-meeting-1.png",
-    "Sem1/images/Pasted image 20260226185612.png",
-    "Sem1/images/Pasted image 20260226185346.png",
-    "Sem1/images/Pasted image 20260226184303.png",
-    "Sem1/images/Pasted image 20260226183048.png",
-    "Sem1/images/Pasted image 20260226182613.png",
-    "Sem1/images/Pasted image 20260226182449.png"
+    "Sem2/SysUd/Slides/QUALITY CONCEPTS.pdf",
+    "Sem2/SysUd/2. Software Quality & Testing.md",
+    "Sem2/SysUd/1. Model-View-Controller (MVC) Pattern.md"
   ]
 }
